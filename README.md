@@ -1,2 +1,4 @@
-# meu-repositorio-de-autenticacoes-DIO
-Repositório de testes de autenticaçõe.
+# Meu repositório de autenticações - DIO
+Repositório de testes de autenticações.
+1. autenticação via usuário
+2. autenticação via token de acesso pessoal.
